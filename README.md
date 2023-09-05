@@ -5,9 +5,9 @@
 - identify and fix bugs
 
 ## What i learned
-- The agile method
 - Write tests for an existing codebase
-- 
+- end-to-end testing
+- The agile method and user stories
 
 
 ## To run this project :
